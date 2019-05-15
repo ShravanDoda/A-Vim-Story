@@ -37,3 +37,6 @@ build/*
 
 # Generated documentation
 docs/*
+
+# Tags
+tags
